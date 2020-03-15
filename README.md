@@ -17,9 +17,32 @@ Terminology:
 () - parenthesis
 "" - double quotes
 '' - single quotes 
+<> - angular brackets
 
 Assignment :
 
 Write a class (name it as Person)  which includes variables ( name , gender , age , salary , address ) and also methods which return these variables ( getName , getGender , getAge , getSalary , getAddress)
+
+Types : 
+   1 .Primitive data types - int , float , decimal , long , double , short 
+   2. Class - String , Bank etc
+   
+Wrapper classes:
+  wrapper --> primitive 
+  Integer --> int
+  Float ---> float
+  Decimal ---> decimal
+  Long   --- > long
+  Short ---> short
+
+Generics:
+why Generics ? It ensures type safety
+List , Set , Map (Collection of objects) --> Basket 
+Data Type (Class type not at all of primitive ) --> Fruit
+create a list for Strings --> List<String> , List<Bank> , List<Integer>, Set<Float>, Set<Long> 
+
+Interface:
+It has methods which are defined.
+A class which implements interface should implement all defined methods
 
 
