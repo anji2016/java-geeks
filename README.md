@@ -53,5 +53,21 @@ Assignment 2:
 
 3. Write a notes on Variables , Class , method , Generics , access modifiers and interface in java
 
+Do Small Research: 
+JDK version .. current JDK version 14 , 15 in progress
+my project includes JDK 8
+reference : https://howtodoinjava.com/java-version-wise-features-history/
+
+Backward compatibility: Can old code works in new version ? If answer is Yes then its backward compatible
+   reference : https://whatis.techtarget.com/definition/backward-compatible-backward-compatibility
+               https://en.wikipedia.org/wiki/Backward_compatibility
+   Java - yes
+   python - no
+   
+Interfaces : before JDK8 doesn't have implementation . Only definition is allowed 
+             after JDK8 implementation is also allowed.
+             
+
+
 
 
