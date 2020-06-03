@@ -17,16 +17,18 @@ public class ForLoop {
 		//array.length
 		//end position = array.length-1
 		
-/*		for (int i=0; i< array.length; i++ ) {
+		//Index based for loop
+    	for (int i=0; i< array.length; i++ ) {
 			System.out.println(array[i]);
 		}
-		*/
+		
 		List<String> lst = new ArrayList<String>();
 		lst.add("Ajay");
 		lst.add("Aparna");
 		lst.add("Anji");
 		lst.add("Angelina");
 		
+		//list based for loop
 		for (String name  : lst) {
 			System.out.println(name);
 		}
